@@ -1,1 +1,34 @@
+CatWeb is a game on Roblox (2D) where users can create interactive sites for others to explore, and explore others' sites. It is a game redefining creativity, with a cat theme. Here is the game's description:
 
+😺 CatWeb allows you to easily create your own website. Customize it to perfection and share it to the world!
+
+- ⚙️ Use CatWeb’s editor to fine-tune every detail to your liking.
+- 🏆 Earn Milestone badges as your site gains more visits.
+- 💵 Add a Donation button so visitors can send you Robux.
+- 📋 Make your website interactive and add logic with Scripts.
+- 👀 Discover and explore websites created by other people.
+
+⚠️ The browser is a parody of Google Chrome. Do not take it seriously.
+❗ The .rbx Top-Level Domain is exclusive to the game and doesn’t exist on the real web.
+
+CatWeb was made by CcXxiiHuman_C4t (more known as HumanCat222) because another game called RoWeb (with a similar purpose) felt too clunky and was more of a cashgrab. CatWeb in the end was supposed to fix all those issues with a much better game.
+
+RoWeb barely has any players since CatWeb was released and this became a success.
+
+
+CatWeb has several features of the game. The first one being that it pretty much looks like Google Chrome. Users can search for websites using its official search engine (catweb.rbx), or discover sites made by people in the same server as you. The Discover page also shows sites that are Trending, Popular, or New (for sites that have been recently created). Sites in the Discover page are ranked from Least Popular to Most Popular (at the top). Sites in the Discover page have a title, icon, thumbnail and description.
+
+Furthermore, players can make their own sites by purchasing a domain for 25 Robux in the domains page. Each user gets 1 free domain to try out the game and Premium players get 3 (we'll touch on that a bit later).
+
+The only TLD (Top Level Domain) that exists on CatWeb is .rbx, which doesn't exist on the real web. HumanCat222 has mentioned that he doesn't want to implement other TLDs for reasons like confusion or the fact that domains won't really be rare.
+
+Once a player has purchased or claimed a domain they can edit it in the Editor. Users can add elements like Frames, Buttons, Donations, ScrollingFrames, and more. Other styling elements like Strokes or Gradients can also be added to other elements. Styling elements cannot be added to other styling elements.
+
+If a player wants to make their site functional, they can do so using scripts. Scripts are a more basic version of Luau featuring Block Coding instead of the more traditional text based alternative. Players can drag and drop blocks and events, kinda like Scratch, to make their website interactive. Here are some of the cool things people have built:
+
+z4 - Buy and sell domains
+searchGo - Advanced search engine with the Kyna assistant
+Renova - Payment and banking services
+
+Those are some of the more popular and impressive websites that people have made that are reliant on scripts.
+CatWeb has a large community of users and sites available.
